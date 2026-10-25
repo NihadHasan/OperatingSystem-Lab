@@ -1,0 +1,2 @@
+Hello from child process!
+Parent wrote this.
